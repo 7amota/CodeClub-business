@@ -1,3 +1,3 @@
 # CodeClub-business
 - Mobile Application Help Users to Connect Businesses by (django, django REST)
-[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png =400x250)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
+[![Account: Resume](https://img.shields.io/badge/Download-CV-6b3237)](https://github.com/faresemad/faresemad/blob/main/cv.pdf)
